@@ -1,6 +1,6 @@
-package org.github.dumijdev.gitipt.runner
+package io.github.dumijdev.gitipt.runner
 
-import org.github.dumijdev.gitipt.command.GitCommand
+import io.github.dumijdev.gitipt.command.GitCommand
 import org.springframework.boot.CommandLineRunner
 import org.springframework.stereotype.Component
 import picocli.CommandLine

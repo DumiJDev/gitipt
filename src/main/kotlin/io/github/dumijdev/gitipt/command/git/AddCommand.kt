@@ -1,4 +1,4 @@
-package org.github.dumijdev.gitipt.command.git
+package io.github.dumijdev.gitipt.command.git
 
 import picocli.CommandLine.Command
 

@@ -1,4 +1,4 @@
-package org.github.dumijdev.gitipt
+package io.github.dumijdev.gitipt
 
 import org.springframework.boot.Banner
 import org.springframework.boot.SpringApplication
